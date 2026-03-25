@@ -16,3 +16,11 @@ const sum1 = num1 + num2;
 
 // display the sum
 console.log(`The sum of ${num1} and ${num2} is ${sum}`);
+
+
+let text = "The temperature is " + toCelsius(77) + " Celsius.";
+document.getElementById("demo").innerHTML = text;
+
+function toCelsius(fahrenheit) {
+  return (5/9) * (fahrenheit-32);
+} 
