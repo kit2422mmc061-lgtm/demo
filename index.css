@@ -1,0 +1,28 @@
+/* This is a CSS comment */
+selector {
+  property: value;
+  property: value;
+}
+
+
+h1 {
+  color: blue;
+  font-size: 20px;
+}
+
+
+
+h1 {
+  color: blue;
+  font-size: 20px;
+}
+
+
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  
+}
