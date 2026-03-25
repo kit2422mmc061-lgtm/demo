@@ -27,3 +27,23 @@ function toCelsius(fahrenheit) {
 
 const name = "vignesh"
 const username = "vignesh dev"
+
+
+const degeree="mcA"
+
+
+
+// change 1 (top)
+const sum2 = num1 + num2 + 10;
+
+// some gap (don’t touch these lines)
+console.log('hello');
+
+
+
+
+// change 2 (bottom)
+const age = 162;
+
+const degree = "MCA";
+const degree2 = "MC3";
