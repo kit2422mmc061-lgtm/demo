@@ -1,0 +1,4 @@
+
+"this is demo for amend commit"
+
+"this is bug fixed lines"
